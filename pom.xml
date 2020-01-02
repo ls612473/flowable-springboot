@@ -8,11 +8,11 @@
         <version>2.1.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.haiyang</groupId>
-    <artifactId>flowable-springboot</artifactId>
+    <groupId>com.sonarone</groupId>
+    <artifactId>sonarone-flowable-springboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>flowable-springboot</name>
-    <description>Demo project for flowable-springboot</description>
+    <name>sonarone-flowable-springboot</name>
+    <description>exam project for flowable-springboot</description>
 
     <properties>
         <java.version>1.8</java.version>

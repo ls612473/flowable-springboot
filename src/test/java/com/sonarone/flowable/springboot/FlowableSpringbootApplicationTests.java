@@ -1,4 +1,4 @@
-package com.haiyang.flowablespringboot;
+package com.sonarone.flowable.springboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.haiyang.flowablespringboot.config;
+package com.sonarone.flowable.springboot.config;
 
 import org.flowable.spring.SpringProcessEngineConfiguration;
 import org.flowable.spring.boot.EngineConfigurationConfigurer;
@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 为解决flowable图片中的中文乱码
  *
- * @author puhaiyang
+ * @author sonarone
  * @date 2018/12/19
  */
 @Configuration
